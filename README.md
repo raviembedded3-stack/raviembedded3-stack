@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm C. P. Ravi! 👋
 
-<!--
-**raviembedded3-stack/raviembedded3-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 💼 Embedded Developer at **Aislyn Technologies Pvt. Ltd.**
+- 🔧 Working with **Raspberry Pi** and Embedded Systems
+- 📍 Based in **Bengaluru, India**
+- 🌱 Currently exploring **IoT & Embedded Linux**
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cp-ravi-7716173b2)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raviembedded3@gmail.com)
